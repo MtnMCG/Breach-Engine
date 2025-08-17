@@ -22,7 +22,7 @@ It has been developed over three years with the goal of pushing Scratch to its l
 ---
 
 ## Versions
-- **v1.5 (current stable)**: Extraction shooter tech demo, latest engine features  
+- **v1.5 (current stable)**: Three Layer rendering, Dynamic Collisions, latest engine features  
 - Legacy versions are available in the **[Releases](https://github.com/MtnMCG/Breach-Engine/releases)** section for reference.  
 
 ---
